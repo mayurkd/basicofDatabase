@@ -11,7 +11,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-// this annotation is used for creating getter and setter method
+// this annotation is used for creating getter and setter method.
 @Data
 //this is a part of lombok and it's use for creating argument constructor
 @AllArgsConstructor
